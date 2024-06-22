@@ -1,0 +1,16 @@
+{
+  "name": "lesson_1_ts",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start" : "web-dev-server --node-resolve --watch --open",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "TEST",
+  "license": "ISC",
+  "devDependencies": {
+    "@web/dev-server": "^0.4.5"
+  }
+}
